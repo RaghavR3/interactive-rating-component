@@ -4,19 +4,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Built with](#built-with)
 
 ### The challenge
 
@@ -29,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://interactive-rating-component-5lngrz4sy-raghavr3.vercel.app/](https://interactive-rating-component-5lngrz4sy-raghavr3.vercel.app/)
 
 ### Built with
 
